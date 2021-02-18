@@ -1,0 +1,6 @@
+name: FastCrops
+version: 1.16.0
+api-version: 1.16
+main: de.redoxcraft.fastcrops.main.Main
+author: RedoxCraft
+website: https://www.youtube.com/redoxcraft
